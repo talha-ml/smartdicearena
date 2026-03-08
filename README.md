@@ -1,71 +1,60 @@
 # 🎲 Smart Dice Arena
 
-Welcome to **Smart Dice Arena**, a high-stakes, visually stunning dice prediction game built with Flutter and Firebase. Test your luck, climb the leaderboard, and become the ultimate Dice Master!
+**Smart Dice Arena** is a modern and engaging **dice prediction game** developed using **Flutter and Firebase**.  
+The application provides an immersive gameplay experience where players predict the outcome of a dice roll, compete on a leaderboard, and track their performance in real time.
+
+This project demonstrates the integration of **modern mobile UI design, Firebase authentication, and real-time cloud database management** within a Flutter application.
+
+---
 
 ## ✨ Features
 
-- **🎰 Immersive Gameplay:** Predict the outcome of a 3D dice roll and win big.
-- **💎 Premium UI:** Experience a modern, sleek interface with glassmorphism effects, neon accents, and smooth animations.
-- **🔥 Real-time Leaderboard:** Compete with players worldwide and track your accuracy and wins.
-- **🔐 Secure Authentication:** Seamless login and registration powered by Firebase Auth.
-- **☁️ Cloud Sync:** Your progress, wins, and losses are safely stored in Firestore.
-- **🎁 Daily Bonuses:** Claim your daily reward to boost your stats.
-- **🔊 Dynamic Audio:** High-quality sound effects for rolling, winning, and more.
-- **📳 Haptic Feedback:** Feel every roll with integrated vibration support.
+### 🎮 Interactive Gameplay
+Predict the outcome of a dice roll and test your luck. The system tracks wins, losses, and prediction accuracy.
+
+### 🎨 Modern UI Design
+A visually appealing interface built with:
+- Glassmorphism effects
+- Smooth animations
+- Neon-style accents
+- Responsive layout for different screen sizes
+
+### 🏆 Real-Time Leaderboard
+Compete with other players and view rankings based on prediction accuracy and total wins.
+
+### 🔐 Secure Authentication
+User authentication implemented using **Firebase Authentication** with email and password login.
+
+### ☁️ Cloud Data Storage
+Player statistics, wins, and game history are securely stored using **Cloud Firestore**.
+
+### 🎁 Daily Reward System
+Players can claim daily bonuses to increase their chances of climbing the leaderboard.
+
+### 🔊 Sound Effects
+Interactive audio effects enhance the gameplay experience during dice rolls and victories.
+
+### 📳 Haptic Feedback
+Integrated vibration feedback provides a more immersive gameplay experience.
+
+---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- Flutter SDK (>= 3.0.0)
-- Firebase Account
-- Android Studio / VS Code
+Make sure the following tools are installed:
 
-### Installation
+- **Flutter SDK (>= 3.0.0)**
+- **Firebase Account**
+- **Android Studio or VS Code**
+- **Git**
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/smartdicearena.git
-   ```
+---
 
-2. **Install dependencies:**
-   ```bash
-   flutter pub get
-   ```
+## 📦 Installation
 
-3. **Firebase Setup:**
-   - Create a new Firebase project.
-   - Add Android/iOS apps to your project.
-   - Download and place `google-services.json` and `GoogleService-Info.plist` in respective folders.
-   - Enable **Authentication** (Email/Password) and **Cloud Firestore**.
+### 1. Clone the Repository
 
-4. **Run the app:**
-   ```bash
-   flutter run
-   ```
-
-## 🛠 Tech Stack
-
-- **Framework:** Flutter
-- **Backend:** Firebase (Auth, Firestore)
-- **State Management:** Provider
-- **Design:** Glassmorphism, Google Fonts, Confetti
-- **Audio:** Audioplayers
-
-## 📸 Screenshots
-
-<img width="1920" height="1080" alt="1st" src="https://github.com/user-attachments/assets/d6243958-3663-4f8c-87a4-f173b63049c3" />
-
-<img width="1920" height="1080" alt="2nd" src="https://github.com/user-attachments/assets/4d2c83ff-315b-4e12-ad44-c38493fd6ca2" />
-
-<img width="1920" height="1080" alt="3rd" src="https://github.com/user-attachments/assets/16128324-9403-4bbc-8c6e-719190febecf" />
-
-<img width="1920" height="1080" alt="4th" src="https://github.com/user-attachments/assets/2fb648b7-1859-4950-a4ac-3a238389fa1f" />
-
-<img width="1920" height="1080" alt="5th" src="https://github.com/user-attachments/assets/44cc8998-9d56-4be4-a409-fbe5b9d1c53b" />
-
-<img width="1920" height="1080" alt="6th" src="https://github.com/user-attachments/assets/235c5747-b043-4739-a839-53c863a61635" />
-
-<img width="1920" height="1080" alt="7th" src="https://github.com/user-attachments/assets/fa2b1c32-f2ee-49c1-9bba-142371b9dca5" />
-
-Developed with ❤️ by **Talha Jutt**
+```bash
+git clone https://github.com/yourusername/smartdicearena.git
