@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257132310592",
+    "project_id": "smart-dice-arena",
+    "storage_bucket": "smart-dice-arena.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257132310592:android:2a60a06b6d126fa92cafa5",
+        "android_client_info": {
+          "package_name": "com.example.smartdicearena"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmSVL1oZV28Z43fnA35zVOR0DP2gh_xOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

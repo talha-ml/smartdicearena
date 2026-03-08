@@ -1,0 +1,43 @@
+name: smartdicearena
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0' # SDK range for compatibility
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase Services
+  firebase_core: ^3.1.1
+  firebase_auth: ^5.1.2
+  cloud_firestore: ^5.0.2
+
+  # State Management
+  provider: ^6.1.2
+
+  # UI & Animations
+  google_fonts: ^6.2.1
+  confetti: ^0.7.0
+  glassmorphism: ^3.0.0
+
+  # Audio
+  audioplayers: ^5.2.1
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # ✅ UPDATE: Images aur Sounds dono ke folders register kar diye hain
+  assets:
+    - assets/sounds/
+    - assets/images/
