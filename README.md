@@ -54,8 +54,18 @@ Welcome to **Smart Dice Arena**, a high-stakes, visually stunning dice predictio
 
 ## 📸 Screenshots
 
-*(Add your screenshots here to make it even more appealing!)*
+<img width="1920" height="1080" alt="1st" src="https://github.com/user-attachments/assets/d6243958-3663-4f8c-87a4-f173b63049c3" />
 
----
+<img width="1920" height="1080" alt="2nd" src="https://github.com/user-attachments/assets/4d2c83ff-315b-4e12-ad44-c38493fd6ca2" />
+
+<img width="1920" height="1080" alt="3rd" src="https://github.com/user-attachments/assets/16128324-9403-4bbc-8c6e-719190febecf" />
+
+<img width="1920" height="1080" alt="4th" src="https://github.com/user-attachments/assets/2fb648b7-1859-4950-a4ac-3a238389fa1f" />
+
+<img width="1920" height="1080" alt="5th" src="https://github.com/user-attachments/assets/44cc8998-9d56-4be4-a409-fbe5b9d1c53b" />
+
+<img width="1920" height="1080" alt="6th" src="https://github.com/user-attachments/assets/235c5747-b043-4739-a839-53c863a61635" />
+
+<img width="1920" height="1080" alt="7th" src="https://github.com/user-attachments/assets/fa2b1c32-f2ee-49c1-9bba-142371b9dca5" />
 
 Developed with ❤️ by **Talha Jutt**
